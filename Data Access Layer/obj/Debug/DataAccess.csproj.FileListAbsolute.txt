@@ -1,0 +1,9 @@
+D:\Blog App\Blogs\Data Access Layer\bin\Debug\Data Access Layer.dll
+D:\Blog App\Blogs\Data Access Layer\bin\Debug\Data Access Layer.pdb
+D:\Blog App\Blogs\Data Access Layer\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+D:\Blog App\Blogs\Data Access Layer\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\Blog App\Blogs\Data Access Layer\obj\Debug\Data Access Layer.dll
+D:\Blog App\Blogs\Data Access Layer\obj\Debug\Data Access Layer.pdb
+D:\Blog App\Blogs\Data Access Layer\bin\Debug\BussinessObject.dll
+D:\Blog App\Blogs\Data Access Layer\bin\Debug\BussinessObject.pdb
+D:\Blog App\Blogs\Data Access Layer\obj\Debug\DataAccess.csproj.CopyComplete

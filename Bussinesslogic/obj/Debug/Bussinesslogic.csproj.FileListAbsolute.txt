@@ -1,0 +1,11 @@
+D:\Blog App\Blogs\Bussinesslogic\bin\Debug\Bussinesslogic.dll
+D:\Blog App\Blogs\Bussinesslogic\bin\Debug\Bussinesslogic.pdb
+D:\Blog App\Blogs\Bussinesslogic\obj\Debug\Bussinesslogic.csproj.AssemblyReference.cache
+D:\Blog App\Blogs\Bussinesslogic\obj\Debug\Bussinesslogic.csproj.CoreCompileInputs.cache
+D:\Blog App\Blogs\Bussinesslogic\obj\Debug\Bussinesslogic.dll
+D:\Blog App\Blogs\Bussinesslogic\obj\Debug\Bussinesslogic.pdb
+D:\Blog App\Blogs\Bussinesslogic\bin\Debug\Data Access Layer.dll
+D:\Blog App\Blogs\Bussinesslogic\bin\Debug\Data Access Layer.pdb
+D:\Blog App\Blogs\Bussinesslogic\obj\Debug\Bussinesslogic.csproj.CopyComplete
+D:\Blog App\Blogs\Bussinesslogic\bin\Debug\BussinessObject.dll
+D:\Blog App\Blogs\Bussinesslogic\bin\Debug\BussinessObject.pdb
